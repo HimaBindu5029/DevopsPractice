@@ -1,3 +1,7 @@
 This is the first file.
 I made this file for practice.
+<<<<<<< HEAD
 This is for checking amend command.
+=======
+This is for checking amend cmd.
+>>>>>>> c426e30c4e32a240d5bc0779ef2a34cb47f57d28
