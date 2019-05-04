@@ -1,3 +1,6 @@
 This is the second file.
 It is very useful for practice.
+<<<<<<< HEAD
 It is also for amend check.
+=======
+>>>>>>> b60910d3fcee655b0c4e5c0ee46807b3f6a3d5dd
